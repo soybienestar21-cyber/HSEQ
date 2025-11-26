@@ -1,0 +1,2 @@
+# HSEQ
+Plantilla de consulta
